@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Currently studying Masters in Computer Science with Cybersecurity at Abertay Univ.
 <!--
 **jfreemansh/jfreemansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
